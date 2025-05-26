@@ -14,9 +14,9 @@ To compute the fewest number of coins that we need to make up the amount given.
 4. The last entry in the table gives the final result.  
 
 ## Program:
-Developed by: GANESH R
+Developed by: Syed Mokthiyar S M
 
-Register Number:  212222240029
+Register Number:  212222230156
 
 ```python
 class Solution(object):

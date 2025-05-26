@@ -15,9 +15,9 @@ jumps[i] = min(jumps[i], jumps[j] + 1)
 4. Return jumps[n-1] as the minimum number of jumps to reach the end.   
 
 ## Program:
-Developed by: GANESH R
+Developed by: Syed Mokthiyar S M
 
-Register Number:  212222240029
+Register Number:  212222230156
 
 ```python
 def minJumps(arr, n):
